@@ -1,0 +1,18 @@
+//META{"name":"GeraldoTheme","description":"Uma versao do discord para o detona.","author":"MrBatata","version":"0.0.1","website":"http://brcheats.com"}*//{}
+
+
+
+:root {
+	--transparencycolor: 0,0,0;		
+	--transparencyalpha: 0.15;			
+	--messagetransparency: 0.5;		
+	--guildchanneltransparency: 0.15;	
+	--memberlistransparency: 0.0;		
+	--accentcolor: 153,204,50; 		
+	--background: url(https://i.imgur.com/8uY6Rpy.png);
+	--backgroundsize: cover;			
+	--backdrop: rgba(0,0,0,0.4);		
+	--backgroundblur: 0px;				
+	--popoutblur: 0px;					
+	--backdropblur: 0px;				
+}
