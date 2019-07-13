@@ -1,6 +1,6 @@
 //META{"name":"GeraldoTheme","description":"Uma versao do discord para o detona.","author":"MrBatata","version":"0.0.1","website":"http://brcheats.com"}*//{}
 
-
+@import url("https://raw.githubusercontent.com/Dev-Batata/teste/master/teste.theme.css");
 
 :root {
 	--transparencycolor: 0,0,0;		
